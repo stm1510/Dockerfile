@@ -9,7 +9,7 @@ This is the most basic Docker Tomcat example to demonstrate how an image is buil
 
 You can clone this project:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/latermonk/Dockerfile-tomcat-example.git
+git clone https://github.com/stm1510/Dockerfile.git
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Build an image using the cloned project
