@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:centos8
 
 
 RUN yum -y epel-release && yum -y install ufw 
